@@ -18,9 +18,6 @@ for(let i=0;i<modal.length;i++) {
         }})
 }
 
-function hello() {
-    console.log("Hello")
-}
 
 close.addEventListener('click', closeAll = function(){
     for(let i=0;i<hide.length;i++) {
