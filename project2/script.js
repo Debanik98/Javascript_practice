@@ -1,4 +1,4 @@
-'use strict';
+    'use strict';
 
 const modal = document.querySelectorAll(".show-modal");
 const hide = document.querySelectorAll(".hidden");
