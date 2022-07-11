@@ -33,4 +33,4 @@ document.addEventListener('keydown',function(event){
         closeAll();
     }})
 
-overlay.addEventListener('click', closeAll)
+overlay.addEventListener('click', closeAll);
