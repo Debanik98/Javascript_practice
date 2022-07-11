@@ -18,7 +18,6 @@ for(let i=0;i<modal.length;i++) {
         }})
 }
 
-
 close.addEventListener('click', closeAll = function(){
     for(let i=0;i<hide.length;i++) {
 
